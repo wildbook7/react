@@ -12,6 +12,7 @@ npm run build
 node app.js
 ```
 
-/           -> "Hello World!" page
-
-/index.html -> "Hello React!" page
+path | page
+---- | ----
+/           | "Hello World!"
+/index.html | "Hello React!"
