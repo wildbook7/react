@@ -1,0 +1,33 @@
+{
+  "name": "react2021",
+  "version": "1.0.0",
+  "description": "https://ics.media/entry/16329/#webpack-ts-react",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildbook7/react2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildbook7/react2021/issues"
+  },
+  "homepage": "https://github.com/wildbook7/react2021#readme",
+  "devDependencies": {
+    "ts-loader": "^8.1.0",
+    "typescript": "^4.2.4",
+    "webpack": "^5.33.2",
+    "webpack-cli": "^4.6.0"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.3",
+    "@types/react-dom": "^17.0.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
