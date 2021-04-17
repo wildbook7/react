@@ -12,6 +12,7 @@ npm i -D webpack webpack-cli typescript ts-loader
 ```
 - 「git clone」を使用する場合
 ```
+npm i
 npm run build
 node app.js
 ```
